@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @hpsjodsdjijaiescjhcj
 - 👀 I’m interested in knowing more about cs
-- 🌱 I’m currently learning cs
-- 💞️ I’m looking to collaborate on some projects
-- 📫 How to reach me panjingyu26@outlook.com
-- 😄 Pronouns: yearn
-- ⚡ Fun fact: I am here waiting myself to succeed
+- 🌱 I’m currently learning cs and will continue----ing
+- 📫 How to reach me panjingyu26@outlook.com or 2617421@dundee.ac.uk (maybe more easier for QQ:1874081398)
+
 
 <!---
 hpsjodsdjijaiescjhcj/hpsjodsdjijaiescjhcj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
