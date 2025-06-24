@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hpsjodsdjijaiescjhcj
 - 👀 I’m interested in knowing more about cs
 - 🌱 I’m currently learning cs and will continue----ing
-- 📫 How to reach me panjingyu26@outlook.com or 2617421@dundee.ac.uk (maybe more easier for QQ:1874081398)
+- 📫 How to reach me panjingyu26@outlook.com or 2617421@dundee.ac.uk (maybe easier QQ:1874081398)
 
 
 <!---
